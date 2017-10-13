@@ -3,4 +3,4 @@ def test(a, b):
 
 
 if __name__ == '__main__':
-    print test(3, 4)
+    print(test(3, 4))

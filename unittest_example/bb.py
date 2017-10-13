@@ -1,4 +1,4 @@
 from aa import test
 
 
-print test(30, 4)
+print(test(30, 4))
